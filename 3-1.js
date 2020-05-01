@@ -24,3 +24,7 @@ console.log(
     typeof singleChar , 
     typeof boolVar ,
     typeof nullVar  );
+    
+//3.1.2
+var str = "test";
+console.log(str[0] ,str[1]);
