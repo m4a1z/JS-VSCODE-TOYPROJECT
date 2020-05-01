@@ -1,0 +1,5 @@
+{
+    "open-in-browser.default": "chrome",
+    "npm.enableScriptExplorer": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
